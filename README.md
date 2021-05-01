@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NGUYEN DUC DANG KHOI
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS, Java
+- 🌱 I’m currently learning ReactJS, Java, Python
 - 📫 How to reach me: mail me at khoindd2000@gmail.com
 
 <!---
